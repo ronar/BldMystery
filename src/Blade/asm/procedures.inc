@@ -576,6 +576,8 @@ externdef ??5@YAAAVB_IDataFile@@AAV0@AAVB_SectorLights@@@Z: near
 l0042E011 equ ??5@YAAAVB_IDataFile@@AAV0@AAVB_SectorLights@@@Z
 externdef ??0B_Sector@@QAE@XZ: near
 l0042E06B equ ??0B_Sector@@QAE@XZ
+externdef _B_Sector: near
+l0042E26F equ _B_Sector
 externdef ?CalculateBoundingBox@B_Sector@@QAEXXZ: near
 l0042E464 equ ?CalculateBoundingBox@B_Sector@@QAEXXZ
 externdef ??5@YAAAVB_IDataFile@@AAV0@AAVB_Sector@@@Z: near
